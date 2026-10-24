@@ -4,7 +4,7 @@ Design a spacecraft, launch it anywhere from the Sun to Pluto, and bring the sci
 
 A browser game for students aged 10–14, made for the **NASA Space Apps Challenge 2026** ("Space Mission Design Game" challenge).
 
-**Play it:**https://github.com/sahandurairaj/SpaceTraveller.git
+**Play it:**https://sahandurairaj.github.io/Space-Traveller/
 
 ## How to play
 
